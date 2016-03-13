@@ -1,4 +1,4 @@
-# racorodja - Primeri iz tutorstva
+# racorodja - Primeri iz tutorstva [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ntadej/racorodja)
 
 ## Navodila
  * [Namestitev Pythona](navodila/python_namestitev.md)
@@ -12,6 +12,8 @@ V mapi [python](python) najdete datoteke z vaj s komentarji:
 Na voljo so tudi notebooki v mapi [notebook](notebook):
  * [branje datotek](notebook/branje.ipynb)
  * [matplotlib](notebook/matplotlib.ipynb)
+
+__Za interaktivni demo klikni [tukaj](http://mybinder.org/repo/ntadej/racorodja).__
 
 ## Povezave
  * urejevalnik [Atom](http://atom.io)
