@@ -16,6 +16,9 @@ Na voljo so tudi notebooki v mapi [notebook](notebook):
 
 __Za interaktivni demo klikni [tukaj](http://mybinder.org/repo/ntadej/racorodja).__
 
+## Naloge
+ * [Naloga 1: Vreme](navodila/naloga1_vreme.md) (branje podatkov, fitanje, grafi)
+
 ## Povezave
  * urejevalnik [Atom](http://atom.io)
  * [SciPy](http://scipy.org)
